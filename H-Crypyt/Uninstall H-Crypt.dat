@@ -1,0 +1,173 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\",
+      "ApplicationVersion": "",
+      "ApplicationName"   : "H-Crypyt"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography\\hazmat\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography\\hazmat\\bindings\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\"
+      },
+      {
+        "Path": "C:\\Users\\popef\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Bradley's Software\\H-Crypyt\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\Uninstall H-Crypt.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_bz2.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_cffi_backend.cp310-win_amd64.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_ctypes.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_decimal.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_hashlib.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_lzma.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\_socket.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\base_library.zip"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\H-Crypt.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\libcrypto-1_1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\libffi-7.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\python3.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\python310.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\select.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\unicodedata.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\VCRUNTIME140.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography\\hazmat\\bindings\\_openssl.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography\\hazmat\\bindings\\_rust.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\INSTALLER"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\LICENSE.APACHE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\LICENSE.BSD"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\LICENSE.PSF"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\METADATA"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\RECORD"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\top_level.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Bradley's Software\\H-Crypyt\\cryptography-36.0.2.dist-info\\WHEEL"
+      },
+      {
+        "Path": "C:\\Users\\popef\\Desktop\\H-Crypt.lnk"
+      },
+      {
+        "Path": "C:\\Users\\popef\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Bradley's Software\\H-Crypyt\\H-Crypt.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\H-Crypyt\\"
+      }
+    ]
+}
